@@ -1,4 +1,4 @@
 def double(x):
-	return x*3;
+	return x**2;
 x=double(2)
 print(x)
